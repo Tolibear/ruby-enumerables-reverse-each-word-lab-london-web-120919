@@ -7,5 +7,5 @@ end
 #   new_string = string.split
 #   new_string.collect { |word| word.reverse! }
 #   new_string.join(" ")
-# 
+#
 # end
